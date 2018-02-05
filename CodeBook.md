@@ -36,7 +36,7 @@ Measurements
 [24] "timeDomainBodyGyroscopeStandardDeviationY"                     
 [25] "timeDomainBodyGyroscopeStandardDeviationZ"                     
 [26] "timeDomainBodyGyroscopeJerkMeanX"                              
-[27] "timeDomainBodyGyroscopeJerkMeanY"                              
+[27] "timeDomainBodyGyroscopeJerkMeanY"                               
 [28] "timeDomainBodyGyroscopeJerkMeanZ"                              
 [29] "timeDomainBodyGyroscopeJerkStandardDeviationX"                 
 [30] "timeDomainBodyGyroscopeJerkStandardDeviationY"                 
