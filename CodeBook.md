@@ -1,5 +1,6 @@
 
 Identifiers
+
     - subject: ID of Subjects, integer.
     - Activity: Type of activity performed the folowing 6 type
           - WALKING
@@ -10,6 +11,7 @@ Identifiers
           - LAYING
 
 Measurements
+
  [1] "subject"                                                       
  [2] "timeDomainBodyAccelerometerMeanX"                              
  [3] "timeDomainBodyAccelerometerMeanY"                              
