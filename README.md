@@ -15,3 +15,5 @@ This repository contains the following files:
   - tidy_data.txt  contains the data get from step 5 above.
   
 The data implements also include thte steps of downloading and unzipping the source files and reading data into R.
+
+!! Not able to create get the activity type in the tidyData file. It is all NA instead of the actual activity Type. I wrote it as mergeData$activity <- factor(mergeData$activity, levels = activities[, 1], labels = activities[, 2]), no idea where it went wrong...
